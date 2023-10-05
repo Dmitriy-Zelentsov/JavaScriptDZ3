@@ -14,3 +14,14 @@
   background-color: antiquewhite;
   color: darkslateblue;
   min-height: 100vw;
+}
+
+.title{
+  padding: 0 5vw;
+  height: 100px;
+  width: 100%;
+  background-color: aquamarine;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
